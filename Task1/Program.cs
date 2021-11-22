@@ -1,7 +1,7 @@
 ﻿
 int numberA = new Random().Next(1, 10); // 1 2 3 4 ... 9
 Console.WriteLine(numberA);
-int result1= numberA * numberA;
+int result1= numberA;
 Console.WriteLine(result1);
 
 int numberB = new Random().Next(1, 10); // 1 2 3 4 ... 9

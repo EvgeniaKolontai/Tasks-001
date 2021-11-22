@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "Seminare_1 Task/1.0.0": {
+      "Task2/1.0.0": {
         "runtime": {
-          "Seminare_1 Task.dll": {}
+          "Task2.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Seminare_1 Task/1.0.0": {
+    "Task2/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

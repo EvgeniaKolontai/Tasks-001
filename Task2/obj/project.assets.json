@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lol59\\Desktop\\Seminare_1 Task\\Seminare_1 Task.csproj",
-      "projectName": "Seminare_1 Task",
-      "projectPath": "C:\\Users\\lol59\\Desktop\\Seminare_1 Task\\Seminare_1 Task.csproj",
+      "projectUniqueName": "C:\\Users\\lol59\\Desktop\\Seminare_1 Task\\Task2\\Task2.csproj",
+      "projectName": "Task2",
+      "projectPath": "C:\\Users\\lol59\\Desktop\\Seminare_1 Task\\Task2\\Task2.csproj",
       "packagesPath": "C:\\Users\\lol59\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lol59\\Desktop\\Seminare_1 Task\\obj\\",
+      "outputPath": "C:\\Users\\lol59\\Desktop\\Seminare_1 Task\\Task2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lol59\\AppData\\Roaming\\NuGet\\NuGet.Config"
