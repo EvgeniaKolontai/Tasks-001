@@ -1,19 +1,13 @@
-﻿double numberA = 10;
-double numberB = 3;
-double result = (numberA / numberB);
+﻿Console.Write("Enter name: ");
+string username = Console.ReadLine();
 
-Console.WriteLine(numberA / numberB);
-
-if(result == double)
+if (username.ToLower() == "jane")
 {
-     Console.Write(result);
-     Console.Write("Делится с остатком ");
+    Console.WriteLine("Wow,Jane!");
 }
-else(result == int);
+else
 {
-     Console.Write(result);
-     Console.Write(" целое число ");
+    Console.Write("Hello, "); 
+    Console.WriteLine(username);
 }
-
-
     
