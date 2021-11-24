@@ -1,13 +1,6 @@
-﻿Console.Write("Enter name: ");
-string username = Console.ReadLine();
-
-if (username.ToLower() == "jane")
-{
-    Console.WriteLine("Wow,Jane!");
-}
-else
-{
-    Console.Write("Hello, "); 
-    Console.WriteLine(username);
-}
+﻿int numA = 3; 
+int numB = 14; 
+double result = (numB/numA); 
+Console.WriteLine(result); 
+Console.WriteLine(numB % numA);
     
