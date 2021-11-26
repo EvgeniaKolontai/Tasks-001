@@ -28,10 +28,3 @@ int index = 0;
 }
 FillArray(collect);
 PrintArray(collect);
-
-
-
-
-
-
-
