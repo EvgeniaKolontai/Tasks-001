@@ -7,6 +7,7 @@ int sum = 0;
 for (int i = 1; i <= A ; i++)
 {
   sum = i + sum;
+  Console.Write($"{i}+");
 }
 
-Console.WriteLine(sum);
+Console.WriteLine($"= {sum}");
