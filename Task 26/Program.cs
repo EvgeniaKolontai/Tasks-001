@@ -2,9 +2,9 @@
 
 Console.Clear();
 Console.WriteLine("Enter num ");
-int A = int.Parse(Console.ReadLine());
-int B = new Random ().Next(2, 5);
-int result = 1;
+double A = double.Parse(Console.ReadLine());
+int B = new Random ().Next(1, 25);
+double result = 1;
 
 
 for (int i = 0; i < B; i++)
@@ -14,5 +14,3 @@ for (int i = 0; i < B; i++)
 }
     Console.WriteLine(B);
     Console.WriteLine(result);
-  
-
