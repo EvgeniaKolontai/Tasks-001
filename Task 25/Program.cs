@@ -10,4 +10,4 @@ for (int i = 1; i <= A ; i++)
   Console.Write($"{i}+");
 }
 
-Console.WriteLine($"= {sum}");
+Console.WriteLine($"={sum}");
