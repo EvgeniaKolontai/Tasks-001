@@ -1,7 +1,7 @@
 ﻿//Показать четные числа от 1 до N
 
 Console.Clear(); 
-Console.Write("our num is ");
+Console.Write("num ");
 int N = new Random().Next(1, 200);
 Console.WriteLine(N);
 int FirstNum = 1;
