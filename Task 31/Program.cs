@@ -3,12 +3,5 @@
 int[] arr = new int[] { 11, 211, 31, 41, 15, 61, 17, 18 };
 int n = arr.Length;
 var str = string.Join(" ", arr);
- Console.WriteLine(str);
-// Console.Write("{0}", string.Join(", ", arr));
-
-
-
-
-        
-
-
+// Console.WriteLine(str);
+ Console.Write("{0}", string.Join(", ", arr));
