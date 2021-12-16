@@ -1,0 +1,15 @@
+C:\Users\lol59\Desktop\Seminare_1 Task\newadd\bin\Debug\net6.0\newadd.exe
+C:\Users\lol59\Desktop\Seminare_1 Task\newadd\bin\Debug\net6.0\newadd.deps.json
+C:\Users\lol59\Desktop\Seminare_1 Task\newadd\bin\Debug\net6.0\newadd.runtimeconfig.json
+C:\Users\lol59\Desktop\Seminare_1 Task\newadd\bin\Debug\net6.0\newadd.dll
+C:\Users\lol59\Desktop\Seminare_1 Task\newadd\bin\Debug\net6.0\ref\newadd.dll
+C:\Users\lol59\Desktop\Seminare_1 Task\newadd\bin\Debug\net6.0\newadd.pdb
+C:\Users\lol59\Desktop\Seminare_1 Task\newadd\obj\Debug\net6.0\newadd.csproj.AssemblyReference.cache
+C:\Users\lol59\Desktop\Seminare_1 Task\newadd\obj\Debug\net6.0\newadd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lol59\Desktop\Seminare_1 Task\newadd\obj\Debug\net6.0\newadd.AssemblyInfoInputs.cache
+C:\Users\lol59\Desktop\Seminare_1 Task\newadd\obj\Debug\net6.0\newadd.AssemblyInfo.cs
+C:\Users\lol59\Desktop\Seminare_1 Task\newadd\obj\Debug\net6.0\newadd.csproj.CoreCompileInputs.cache
+C:\Users\lol59\Desktop\Seminare_1 Task\newadd\obj\Debug\net6.0\newadd.dll
+C:\Users\lol59\Desktop\Seminare_1 Task\newadd\obj\Debug\net6.0\ref\newadd.dll
+C:\Users\lol59\Desktop\Seminare_1 Task\newadd\obj\Debug\net6.0\newadd.pdb
+C:\Users\lol59\Desktop\Seminare_1 Task\newadd\obj\Debug\net6.0\newadd.genruntimeconfig.cache

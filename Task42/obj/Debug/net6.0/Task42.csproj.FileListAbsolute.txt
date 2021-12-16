@@ -1,0 +1,15 @@
+C:\Users\lol59\Desktop\Seminare_1 Task\Task42\bin\Debug\net6.0\Task42.exe
+C:\Users\lol59\Desktop\Seminare_1 Task\Task42\bin\Debug\net6.0\Task42.deps.json
+C:\Users\lol59\Desktop\Seminare_1 Task\Task42\bin\Debug\net6.0\Task42.runtimeconfig.json
+C:\Users\lol59\Desktop\Seminare_1 Task\Task42\bin\Debug\net6.0\Task42.dll
+C:\Users\lol59\Desktop\Seminare_1 Task\Task42\bin\Debug\net6.0\ref\Task42.dll
+C:\Users\lol59\Desktop\Seminare_1 Task\Task42\bin\Debug\net6.0\Task42.pdb
+C:\Users\lol59\Desktop\Seminare_1 Task\Task42\obj\Debug\net6.0\Task42.csproj.AssemblyReference.cache
+C:\Users\lol59\Desktop\Seminare_1 Task\Task42\obj\Debug\net6.0\Task42.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lol59\Desktop\Seminare_1 Task\Task42\obj\Debug\net6.0\Task42.AssemblyInfoInputs.cache
+C:\Users\lol59\Desktop\Seminare_1 Task\Task42\obj\Debug\net6.0\Task42.AssemblyInfo.cs
+C:\Users\lol59\Desktop\Seminare_1 Task\Task42\obj\Debug\net6.0\Task42.csproj.CoreCompileInputs.cache
+C:\Users\lol59\Desktop\Seminare_1 Task\Task42\obj\Debug\net6.0\Task42.dll
+C:\Users\lol59\Desktop\Seminare_1 Task\Task42\obj\Debug\net6.0\ref\Task42.dll
+C:\Users\lol59\Desktop\Seminare_1 Task\Task42\obj\Debug\net6.0\Task42.pdb
+C:\Users\lol59\Desktop\Seminare_1 Task\Task42\obj\Debug\net6.0\Task42.genruntimeconfig.cache
