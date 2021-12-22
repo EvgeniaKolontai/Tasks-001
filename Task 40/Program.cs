@@ -7,7 +7,7 @@ Random rnd = new Random();
 
 for (int i = 0; i < array.Length; i++)
 {
-    array[i] = rnd.Next(2, 40);
+    array[i] = rnd.Next(1, 50);
     Console.Write(" "+ array[i] + " ");
 }
 Console.WriteLine();
