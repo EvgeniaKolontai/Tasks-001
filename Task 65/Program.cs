@@ -4,8 +4,8 @@
 //11 16 15  6
 //10  9  8  7
 Console.Clear();
-int m = 5;
-int n = 8;
+int m = 7;
+int n = 4;
 int[,] arr = new int[n, m];
 int j = 0;
 int i = 0;
