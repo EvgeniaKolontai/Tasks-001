@@ -10,7 +10,7 @@ string[] Nums = (s.Split(separators, StringSplitOptions.RemoveEmptyEntries));
 int[] X = new int[(Nums.Length)/2];
 int[] Y = new int[(Nums.Length)/2];
   int Index = 0;
-for (int i = 0; i < Nums.Length; i++)
+for (int i = Nums.Length - 1; i >= 0; i--)
 {
     if (i%2==0)
     {
